@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             int number = 10; // Integer variable
             double pi = 3.14; // Double variable
-            char initial = 'A'; // Character variable
+            char initial = 'A'; // Character variable  
             string greeting = "Hello, World!"; // String variable
             bool isActive = true; // Boolean variable
 

@@ -8,7 +8,7 @@ namespace C_sharp_Basics
 {
     public class Animal
     {
-        // Virtual method that can be overridden
+        // Virtual method that can be overridden  
         public virtual void MakeSound()
         {
             Console.WriteLine("Some generic animal sound");

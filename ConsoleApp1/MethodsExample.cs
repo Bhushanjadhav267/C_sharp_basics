@@ -10,7 +10,7 @@ namespace C_sharp_Basics
     {
         static void Main(string[] args)
         {
-            int result = Add(5, 10); // Method call with arguments
+            int result = Add(5, 10); // Method call   with arguments
             Console.WriteLine($"Sum: {result}");
 
             string greeting = GetGreeting("John");

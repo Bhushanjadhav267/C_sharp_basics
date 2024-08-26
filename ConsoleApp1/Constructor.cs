@@ -13,7 +13,7 @@ namespace C_sharp_Basics
         public string Name;
         public int Age;
 
-        // Default constructor
+        // Default ..
         public Person()
         {
             Name = "Unknown";

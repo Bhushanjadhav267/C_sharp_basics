@@ -8,7 +8,7 @@ namespace C_sharp_Basics
         {
             int number = 15;
 
-            // if-else if-else example
+            // if-else if-else example ..
             if (number < 10)
             {
                 Console.WriteLine("Number is less than 10.");

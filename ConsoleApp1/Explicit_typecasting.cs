@@ -11,7 +11,7 @@ namespace C_sharp_Basics
         public static void Main()
         {
             double pi = 3.14;
-            int roundedPi = (int)pi; // Explicit casting from double to int
+            int roundedPi = (int)pi; // .Explicit casting from double to int
 
             Console.WriteLine(roundedPi); // Outputs: 3
         }

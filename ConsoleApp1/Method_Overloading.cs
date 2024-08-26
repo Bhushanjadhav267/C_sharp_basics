@@ -14,7 +14,7 @@ namespace C_sharp_Basics
             return a + b;
         }
 
-        // Overloaded method to add three integers
+        // Overloaded method to add three integers  
         public int Add(int a, int b, int c)
         {
             return a + b + c;

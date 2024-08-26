@@ -11,7 +11,7 @@ namespace C_sharp_Basics
     {
         static void Main(string[] args)
         {
-            // for loop example
+            // for loop example 
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine($"For Loop Iteration: {i}");
